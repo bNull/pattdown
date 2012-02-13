@@ -1,0 +1,5 @@
+- multi-file support
+    - highlight bytes that exist at common offsets
+    - identify byte sequences that exist within multiple files
+- heuristics
+    - analyze known binary protocols and define canned "sweet spot" settings
